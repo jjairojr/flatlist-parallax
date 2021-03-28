@@ -4,4 +4,4 @@
 
 This project was made for training Animated API on react-native.
 
-Result:
+Result: ![](result.gif)
